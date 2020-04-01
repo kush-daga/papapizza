@@ -1,0 +1,421 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 11362,
+      "max": [
+        -1.460690975189209,
+        3.0748929977416992,
+        -0.18915000557899475
+      ],
+      "min": [
+        -13.072301864624023,
+        1.7766350507736206,
+        -6.3755488395690918
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 136344,
+      "componentType": 5126,
+      "count": 11362,
+      "max": [
+        0.99928116798400879,
+        1,
+        0.99995338916778564
+      ],
+      "min": [
+        -0.99886929988861084,
+        -1,
+        -0.99978983402252197
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 11362,
+      "max": [
+        0.93378102779388428,
+        0.98107302188873291
+      ],
+      "min": [
+        0.012299999594688416,
+        0.23293399810791016
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 90896,
+      "componentType": 5126,
+      "count": 11362,
+      "max": [
+        0.93378102779388428,
+        0.98107302188873291
+      ],
+      "min": [
+        0.012299999594688416,
+        0.23293399810791016
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 12813,
+      "max": [
+        11361
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 272688,
+      "componentType": 5126,
+      "count": 168,
+      "max": [
+        -9.9798374176025391,
+        3.1384329795837402,
+        -0.69043600559234619
+      ],
+      "min": [
+        -11.303769111633301,
+        2.64888596534729,
+        -1.9892150163650513
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 274704,
+      "componentType": 5126,
+      "count": 168,
+      "max": [
+        0.96478909254074097,
+        0.99868351221084595,
+        0.9718400239944458
+      ],
+      "min": [
+        -0.96752113103866577,
+        -0.99447137117385864,
+        -0.97183966636657715
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 181792,
+      "componentType": 5126,
+      "count": 168,
+      "max": [
+        0.74749100208282471,
+        0.74749100208282471
+      ],
+      "min": [
+        0.25250899791717529,
+        0.25250899791717529
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 183136,
+      "componentType": 5126,
+      "count": 168,
+      "max": [
+        0.74749100208282471,
+        0.74749100208282471
+      ],
+      "min": [
+        0.25250899791717529,
+        0.25250899791717529
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 51252,
+      "componentType": 5125,
+      "count": 720,
+      "max": [
+        167
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "kozlowicz.w (https://sketchfab.com/kozlowicz.w)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/pizza-slice-b55289b594654879b6ac22891f86698a",
+      "title": "Pizza Slice"
+    },
+    "generator": "Sketchfab-8.5.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 54132,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 184480,
+      "byteOffset": 54132,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 276720,
+      "byteOffset": 238612,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 515332,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Pizzaarchmodels76_023_01SG1_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Pizzaarchmodels76_023_02SG1_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Pizzaarchmodels76_023_01SG1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Pizzaarchmodels76_023_02SG1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object001_Pizza:archmodels76_023_01SG1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object001_Pizza:archmodels76_023_02SG1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "69c9525ecb974d838e0785caffd37be6.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        0.99999999999999956,
+        -1.8248660155909775e-24,
+        2.9802322387695303e-08,
+        0,
+        -4.8554147744689425e-15,
+        0.99999999999998668,
+        1.629206849429458e-07,
+        0,
+        -2.9802322387694906e-08,
+        -1.6292068494294585e-07,
+        0.99999999999998623,
+        0,
+        0,
+        0,
+        0.052254438400268555,
+        1
+      ],
+      "name": "Object001"
+    },
+    {
+      "children": [
+        6,
+        7
+      ],
+      "matrix": [
+        0.96830741280159582,
+        -4.8879558280067834e-08,
+        -0.24976139476203607,
+        0,
+        3.341183116698126e-08,
+        0.99999999999999734,
+        -6.6169691683337802e-08,
+        0,
+        0.24976139476203862,
+        5.5727617405953194e-08,
+        0.96830741280159482,
+        0,
+        7.8560070991516113,
+        -2.4575343132019043,
+        0.20994734764099121,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 0,
+      "name": "Object001_Pizza:archmodels76_023_01SG1_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Object001_Pizza:archmodels76_023_02SG1_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+
